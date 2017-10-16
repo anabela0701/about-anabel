@@ -21,3 +21,5 @@ I attend [HSTAT](http://www.hstat.org/) and I am a Junior.Some of my hobbies inc
 7. AP chem
 8. Study hall (mon,tues,wed) 
 9. AP chem (thurs & fri)
+
+Reviewed by Xavier
